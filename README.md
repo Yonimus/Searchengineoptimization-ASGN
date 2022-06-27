@@ -1,0 +1,1 @@
+The contained files are an assignment for coding bootcamp focused around html semantic elements
